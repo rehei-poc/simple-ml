@@ -1,0 +1,12 @@
+.cache
+.classpath
+.project
+.directory
+extsrc
+console.devmode.log
+bin/
+target
+project/target
+.settings/
+bin/
+deployment/
